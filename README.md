@@ -7,6 +7,7 @@ Tools Required:
 •	Cadence Virtuoso Software
 Circuit Diagram:
 ![WhatsApp Image 2024-11-13 at 16 27 48_1879136e](https://github.com/user-attachments/assets/08585f8b-bd70-45c7-b826-b21d214be265)
+
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence
@@ -57,8 +58,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-
- ![image](https://github.com/user-attachments/assets/e47ff256-8081-4189-a0bf-055fe3b8b5bb)
+![image](https://github.com/user-attachments/assets/e47ff256-8081-4189-a0bf-055fe3b8b5bb)
 iv)	Creating the new test cell view
 •	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
